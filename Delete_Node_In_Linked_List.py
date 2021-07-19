@@ -13,7 +13,6 @@ class Solution(object):
         Plan:
         1. Change the pointer of the given node
         2. Change the value of the given node
-
         """
 
         node.val = node.next.val
