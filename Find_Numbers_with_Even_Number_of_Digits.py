@@ -1,8 +1,6 @@
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
         """
-        Don't have to worry about empty lists
-
         Plan:
         1. Iterate through nums using a for loop
         2. For each iteration, find the number of digits for integer
